@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-Express.js.svg?style=flat-square"></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-Mongo.svg?style=flat-square"></a>
 </p>
 
 
